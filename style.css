@@ -30,6 +30,11 @@ body {
     cursor: pointer;
 }
 
+.btn:hover {
+    opacity: 0.77;
+    transform: scale(0.99999);  
+}
+
 .btn:focus {
     outline: none;
 }
