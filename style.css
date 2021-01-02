@@ -17,3 +17,14 @@ body {
     margin: 0;
 }
 
+.btn {
+    background-color: rgb(25, 219, 203);
+    border-radius: 0.1875rem;
+    border: none;
+    color: rgba(53, 50, 50, 0.87);
+    margin: 1rem;
+    padding: 1.5rem 3rem;
+    font-size: 1.2rem;
+    font-family: inherit;
+    box-shadow: 0 6px 6px 1px rgba(0, 0, 0, 0.3);
+}
